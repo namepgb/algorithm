@@ -1,4 +1,4 @@
-package main.java.permituation;
+package main.java.test;
 
 import java.util.*;
 
