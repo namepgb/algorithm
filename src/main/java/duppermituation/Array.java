@@ -1,8 +1,7 @@
-package main.java.permituation_duplicated;
+package main.java.duppermituation;
 
 /**
  * 중복 순열을 구하는 방법으로 배열과 재귀 호출을 사용합니다.
- * <br>
  * <br>e.g) 배열 [1, 2, 3]에서 2개의 값을 뽑는 중복 순열은 다음과 같습니다.
  * <ul>
  *     <li>[1, 1]</li>
@@ -15,7 +14,7 @@ package main.java.permituation_duplicated;
  *     <li>[3, 2]</li>
  *     <li>[3, 3]</li>
  * </ul>
- * @see <a href="https://namepgb.tistory.com/272">블로그 문서: DFS를 사용한 순열 구하기</a>
+ * @see <a href="https://namepgb.tistory.com/288">블로그 문서: 중복 순열 구하기</a>
  * @author namepgb
  */
 public class Array

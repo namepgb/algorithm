@@ -1,10 +1,10 @@
-package main.java.permituation_duplicated;
+package main.java.duppermituation;
 
 import java.util.Arrays;
 
 /**
  * 정해진 테스트 셋에 따라서 {@link Array#duppermutation(int[], int[], int, int)}을 실행합니다.
- * @see <a href="https://namepgb.tistory.com/271">블로그 문서: Swap을 사용한 순열 구하기</a>
+ * @see <a href="https://namepgb.tistory.com/288">블로그 문서: 중복 순열 구하기</a>
  * @author namepgb
  */
 public class ArrayTest
